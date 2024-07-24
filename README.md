@@ -8,11 +8,14 @@
   git clone github.com/Abhay-Mahanta/Mac-Address-Changer
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `python mac_changer.py [arguements]` -
   ```
   cd Mac-Address-Changer
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
-
+- To see how the tool works run.
+  ```
+  python mac_changer.py --help
+  ```
+  
 ##
