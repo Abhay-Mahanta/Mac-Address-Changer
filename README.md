@@ -8,7 +8,7 @@
   git clone github.com/Abhay-Mahanta/Mac-Address-Changer
   ```
 
-- Now go to cloned directory and run `python mac_changer.py [arguements]` -
+- Now go to cloned directory and run `python mac_changer.py [arguments]` -
   ```
   cd Mac-Address-Changer
   ```
