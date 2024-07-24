@@ -16,6 +16,14 @@
 - To see how the tool works run.
   ```
   python mac_changer.py --help
+
+  Options:
+  -h, --help                                     show this help message and exit
+  -i INTERFACE, --interface=INTERFACE            Enter interface.                    
+  -m NEW_MAC, --mac=NEW_MAC                      Enter new MAC address.
+                        
   ```
   
-##
+
+### Example
+![Screenshot 2024-07-24 151635](https://github.com/user-attachments/assets/b777642a-0d65-4a61-984d-0a814ecbcd9a)
