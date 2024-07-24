@@ -26,4 +26,6 @@
   
 
 ### Example
-![Screenshot 2024-07-24 151635](https://github.com/user-attachments/assets/b777642a-0d65-4a61-984d-0a814ecbcd9a)
+
+![Screenshot 2024-07-24 151853](https://github.com/user-attachments/assets/9bec2df0-087e-4b83-9aff-dc1b3a15ad17)
+
